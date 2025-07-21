@@ -35,8 +35,8 @@ Full stack разработчик с опытом работы в веб-раз�
 
 
 
-## Статистика GitHub 📊
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MishaAstanin&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## Statistics GitHub 📊
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&hide_progress=true)]()
 
 ## Змея из вкладов 🐍
 ![Snake animation](https://github.com/MishaAstanin/MishaAstanin/blob/output/github-contribution-grid-snake.svg)
