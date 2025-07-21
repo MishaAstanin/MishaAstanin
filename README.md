@@ -37,7 +37,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=MishaAstanin)]()
 
 ## Statistics GitHub 📊
-[![Stats](https://github-readme-stats.vercel.app/api?username=MishaAstanin&show_icons=true&theme=dark)]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MishaAstanin&hide_progress=true)]()
 
 ## Education 🎓
