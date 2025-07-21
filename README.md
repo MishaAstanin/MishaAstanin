@@ -48,7 +48,7 @@
 [![Pytest](https://img.shields.io/badge/pytest-%23476A6F.svg?style=for-the-badge&logo=pytest&logoColor=white)]()
 [![Unittest](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)]()
 [![REST API](https://img.shields.io/badge/REST_API-6CC24A?style=for-the-badge&logo=postman&logoColor=white)]()
-[![Socket.IO](https://img.shields.io/badge/WebSocket-339933?style=for-the-badge&logo=socketdotio&logoColor=white)](
+[![Socket.IO](https://img.shields.io/badge/WebSocket-339933?style=for-the-badge&logo=socketdotio&logoColor=white)]()
 [![GraphQL](https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)]()
 
 #### Development Tools & Others
