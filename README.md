@@ -39,12 +39,14 @@ Full stack разработчик с опытом работы в веб-раз�
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MishaAstanin&hide_progress=true)]()
 
 ## Education 🎓
-🏫 РТУ МИРЭА (2022-2026)
-👨‍💻 Институт информационных технологий
-🔧 Программная инженерия
+
+🏫 РТУ МИРЭА (2022-2026)  
+👨‍💻 Институт информационных технологий  
+🔧 Программная инженерия  
 
 ## Courses 📜
-🎯 Бэкенд-разработчик, Яндекс.Практикум (2025)
-📱 Мобильная разработка на Kotlin, IT Академия Samsung (2024)
-📊 SQL для анализа данных, CHANGELLENGE EDUCATION (2023)
-🐍 Python. Advanced, CHANGELLENGE EDUCATION (2023)
+
+🎯 Бэкенд-разработчик, Яндекс.Практикум (2025)  
+📱 Мобильная разработка на Kotlin, IT Академия Samsung (2024)  
+📊 SQL для анализа данных, CHANGELLENGE EDUCATION (2023)  
+🐍 Python. Advanced, CHANGELLENGE EDUCATION (2023)  
