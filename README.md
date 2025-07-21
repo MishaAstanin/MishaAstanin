@@ -33,9 +33,11 @@
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)]()
 
-
+## Достижения 🏆
+[![trophy](https://github-profile-trophy.vercel.app/?username=MishaAstanin)]()
 
 ## Statistics GitHub 📊
+[![Stats](https://github-readme-stats.vercel.app/api?username=MishaAstanin&show_icons=true&theme=dark)]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MishaAstanin&hide_progress=true)]()
 
 ## Education 🎓
