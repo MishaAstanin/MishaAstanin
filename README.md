@@ -23,7 +23,7 @@
 
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)]()
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS3](https://img.shields.io/badge/css3-%231572B6DA.svg?style=for-the-badge&logo=css3&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 
@@ -46,7 +46,7 @@
 #### Testing & API
 [![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)]()
 [![Pytest](https://img.shields.io/badge/pytest-%23476A6F.svg?style=for-the-badge&logo=pytest&logoColor=white)]()
-[![Unittest](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)]()
+[![Unittest](https://img.shields.io/badge/unittest-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)]()
 [![REST API](https://img.shields.io/badge/REST_API-6CC24A?style=for-the-badge&logo=postman&logoColor=white)]()
 [![Socket.IO](https://img.shields.io/badge/WebSocket-339933?style=for-the-badge&logo=socketdotio&logoColor=white)]()
 [![GraphQL](https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)]()
