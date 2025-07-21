@@ -1,13 +1,13 @@
-# 👋 Здравствуйте! Я Михаил Астанин
+# 👋 Hi! I'm a Full Stack Developer from Russia
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Разработчик)](https://github.com/MishaAstanin)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=1901BB&background=5A9DFF00&center=true&vCenter=true&width=435&height=35&lines=Full+Stack+Developer)](https://github.com/MishaAstanin)
 
-## Контакты 📱
+## Contacts 📱
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:misha100904@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/MishaAstanin)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/MishaAstanin)
 
-## Обо мне 📚
+## About me 📚
 Full stack разработчик с опытом работы в веб-разработке. Создаю структурированный и понятный код. Владею английским языком на профессиональном уровне. Дисциплинирован, неконфликтен и всегда стремлюсь к профессиональному росту.
 
 ## Профессиональные навыки 💻
