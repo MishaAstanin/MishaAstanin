@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=1901BB&background=5A9DFF00&vCenter=true&width=435&height=35&lines=Full+Stack+Developer)](https://github.com/MishaAstanin)
 
 ## Contacts 📱
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:misha100904@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/MishaAstanin)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/MishaAstanin)
+[![Email](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:misha100904@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MishaAstanin)
+[![GitHub](https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MishaAstanin)
 
 ## About me 📚
 Full stack разработчик с опытом работы в веб-разработке. Создаю структурированный и понятный код. Владею английским языком на профессиональном уровне. Дисциплинирован, неконфликтен и всегда стремлюсь к профессиональному росту.
