@@ -36,29 +36,35 @@
 ### Additional Skills
 
 #### Backend & Server
-![Nginx](https://skillicons.dev/icons?i=nginx)
-![Gunicorn](https://skillicons.dev/icons?i=gunicorn)
-![uWSGI](https://skillicons.dev/icons?i=uwsgi)
-![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
-![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
+- ![Nginx](https://skillicons.dev/icons?i=nginx) Nginx  
+- ![Gunicorn](https://skillicons.dev/icons?i=gunicorn) Gunicorn  
+- ![uWSGI](https://skillicons.dev/icons?i=uwsgi) uWSGI  
+- ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) Kubernetes  
+- ![GitHub Actions](https://skillicons.dev/icons?i=githubactions) GitHub Actions  
 
 #### Testing & API
-![Postman](https://skillicons.dev/icons?i=postman)
-![Pytest](https://skillicons.dev/icons?i=pytest)
-![Unittest](https://skillicons.dev/icons?i=python)
-![REST](https://skillicons.dev/icons?i=rest)
-![WebSocket](https://skillicons.dev/icons?i=websocket)
-![GraphQL](https://skillicons.dev/icons?i=graphql)
+- ![Postman](https://skillicons.dev/icons?i=postman) Postman  
+- ![Pytest](https://skillicons.dev/icons?i=pytest) Pytest  
+- ![Python](https://skillicons.dev/icons?i=python) Unittest (Python)  
+- ![REST](https://skillicons.dev/icons?i=rest) REST API  
+- ![WebSocket](https://skillicons.dev/icons?i=websocket) WebSocket  
+- ![GraphQL](https://skillicons.dev/icons?i=graphql) GraphQL  
 
 #### Frontend & UI
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+- ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) Bootstrap  
+- ![React](https://skillicons.dev/icons?i=react) React  
+- ![Vue](https://skillicons.dev/icons?i=vue) Vue.js  
+- ![Angular](https://skillicons.dev/icons?i=angular) Angular  
+- ![TailwindCSS](https://skillicons.dev/icons?i=tailwindcss) Tailwind CSS  
 
 #### Development Tools & Others
-![Git](https://skillicons.dev/icons?i=git)
-![Docker Compose](https://skillicons.dev/icons?i=docker)
-![npm](https://skillicons.dev/icons?i=npm)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Bash](https://skillicons.dev/icons?i=bash)
+- ![Docker](https://skillicons.dev/icons?i=docker) Docker Compose  
+- ![npm](https://skillicons.dev/icons?i=npm) npm  
+- ![Linux](https://skillicons.dev/icons?i=linux) Linux  
+- ![Bash](https://skillicons.dev/icons?i=bash) Bash  
+- ![Git](https://skillicons.dev/icons?i=git) Git  
+- ![Terraform](https://skillicons.dev/icons?i=terraform) Terraform  
+- ![Prisma](https://skillicons.dev/icons?i=prisma) Prisma ORM
 
 ## Goals and interests 🎯
 - Разработка высокопроизводительных веб-приложений
