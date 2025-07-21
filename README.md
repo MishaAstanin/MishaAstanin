@@ -1,6 +1,6 @@
 # 👋 Hi! I'm a Full Stack Developer from Russia
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=1901BB&background=5A9DFF00&center=true&vCenter=true&width=435&height=35&lines=Full+Stack+Developer)](https://github.com/MishaAstanin)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=1901BB&background=5A9DFF00&vCenter=true&width=435&height=35&lines=Full+Stack+Developer)](https://github.com/MishaAstanin)
 
 ## Contacts 📱
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:misha100904@gmail.com)
