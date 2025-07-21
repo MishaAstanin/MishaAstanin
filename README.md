@@ -33,7 +33,34 @@
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)]()
 
-## Цели и интересы 🎯
+### Additional Skills
+
+#### Backend & Server
+![Nginx](https://skillicons.dev/icons?i=nginx)
+![Gunicorn](https://skillicons.dev/icons?i=gunicorn)
+![uWSGI](https://skillicons.dev/icons?i=uwsgi)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
+
+#### Testing & API
+![Postman](https://skillicons.dev/icons?i=postman)
+![Pytest](https://skillicons.dev/icons?i=pytest)
+![Unittest](https://skillicons.dev/icons?i=python)
+![REST](https://skillicons.dev/icons?i=rest)
+![WebSocket](https://skillicons.dev/icons?i=websocket)
+![GraphQL](https://skillicons.dev/icons?i=graphql)
+
+#### Frontend & UI
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+
+#### Development Tools & Others
+![Git](https://skillicons.dev/icons?i=git)
+![Docker Compose](https://skillicons.dev/icons?i=docker)
+![npm](https://skillicons.dev/icons?i=npm)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Bash](https://skillicons.dev/icons?i=bash)
+
+## Goals and interests 🎯
 - Разработка высокопроизводительных веб-приложений
 - Исследование новых технологий
 - Участие в open source проектах
@@ -49,7 +76,7 @@
 
 ## Courses 📜
 
-#### 🎯 Бэкенд-разработчик, Яндекс.Практикум (2025)  
+#### 💻 Бэкенд-разработчик, Яндекс.Практикум (2025)  
 #### 📱 Мобильная разработка на Kotlin, IT Академия Samsung (2024)  
 #### 📊 SQL для анализа данных, CHANGELLENGE EDUCATION (2023)  
 #### 🐍 Python. Advanced, CHANGELLENGE EDUCATION (2023)  
