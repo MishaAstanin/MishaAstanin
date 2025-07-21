@@ -37,10 +37,6 @@
 
 ## Statistics GitHub 📊
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MishaAstanin&hide_progress=true)]()
-<!-- Кол-во репозиториев, issues, PR -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MishaAstanin&show_icons=true&count_private=true&include_all_commits=true)]()
-<!-- Суммарное количество строк кода -->
-[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=MishaAstanin&show_icons=true&count_private=true&include_all_commits=true&hide=prs,issues,contribs)]()
 
 ## Education 🎓
 
